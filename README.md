@@ -1,0 +1,1 @@
+text animation with Vanilla Javascript by DEV ED
